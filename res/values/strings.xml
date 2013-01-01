@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="scanning">scanning for devices</string>
+    <string name="select_device">select a device</string>
+    
+    <string name="intro">Welcome!\nselect "Discover devices" from menu to begin</string>
+    
+    <string name="menu_discover">Discover devices</string>
+    <string name="menu_send">Send</string>
+    
+    <string name="titleClassSelector">Choose Current Class</string>
+</resources>
